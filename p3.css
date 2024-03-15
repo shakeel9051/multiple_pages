@@ -1,0 +1,17 @@
+h2{
+    font: size 60px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background: url(./rahulbg.avif);
+    background-repeat:no-repeat;
+    background-size: auto;
+    background-color: black;
+    color: blanchedalmond;
+}
+img{
+    border-radius: 20% 20% 20% 20%;
+}
+#hikl{
+    border-radius: 0 0 0 0;
+}

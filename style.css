@@ -1,0 +1,22 @@
+img{
+    height: 250px;
+    width: 250px;
+    margin-top: 10px;
+    opacity: 0.6;
+}
+.hi{
+    display: flex;
+    justify-content: space-evenly;
+}
+img:hover{
+    opacity: 1;
+}
+body{
+    background: url(./stadium.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    text-align: center;
+    color: whitesmoke;
+}
